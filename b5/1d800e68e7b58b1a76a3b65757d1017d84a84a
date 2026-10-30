@@ -1,0 +1,34 @@
+.changeset/restore-after-dispatch.md
+  s_56bb617a38c112::t_029a61c938e5c2 1-5
+packages/redact/src/dom/dom.ts
+  s_56bb617a38c112::t_b5d5fd1819b523 5,151
+packages/redact/src/dom/root-internal.ts
+  s_56bb617a38c112::t_091e53bb095a6d 1,23
+tests/issue115-controlled-restore.test.tsx
+  s_56bb617a38c112::t_650b1e381057a2 4,265-271,293-319
+  s_56bb617a38c112::t_b59c4cfe9c5a06 272-280
+  s_56bb617a38c112::t_50a7d22fbdf93a 281-292
+packages/redact/src/dom/form-controls.ts
+  s_56bb617a38c112::t_0d4fd98541bd82 13-15,17,19,23-26
+  s_56bb617a38c112::t_53e11539b4af88 9-10,16,18,20-22,27-30
+packages/redact/src/dom/features/portal/full.ts
+  s_56bb617a38c112::t_a8f1dfb6ad3a8a 3,6,10
+tests/issue115-controlled-restore.browser.tsx
+  s_56bb617a38c112::t_f6c08a32b2e992 74-102
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "b51d800e68e7b58b1a76a3b65757d1017d84a84a",
+  "prompts": {},
+  "sessions": {
+    "s_56bb617a38c112": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "764c9e08-2dbf-4d22-a1f2-e189495533ee",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Bilal Vural <11067812+bilalvur@users.noreply.github.com>"
+    }
+  }
+}
