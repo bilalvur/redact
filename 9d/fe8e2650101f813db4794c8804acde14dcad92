@@ -1,0 +1,47 @@
+.changeset/restore-controlled-inputs.md
+  s_56bb617a38c112::t_fa90e36ac08043 1-5
+scripts/size-check.mjs
+  s_56bb617a38c112::t_c61dcbfcb4b7f9 66-79,84
+packages/redact/src/dom/form-controls.ts
+  s_56bb617a38c112::t_daa2bde04bb820 4
+  s_56bb617a38c112::t_c80d37d9cde7ac 2
+  s_56bb617a38c112::t_adad74bf8621b1 17
+  s_56bb617a38c112::t_a42165c1dcaf2d 24
+  s_56bb617a38c112::t_7ed53224160c6c 50
+  s_56bb617a38c112::t_edbdf981b987a5 18,63-70,74-93
+  s_56bb617a38c112::t_a05a235685f81b 71-73
+  s_56bb617a38c112::t_b2e9aecd43b570 94-97,99
+tests/issue115-controlled-restore.test.tsx
+  s_56bb617a38c112::t_3588280208569e 25,27,29-32,35-41,54,57-58,60,65,67-68,70,76-91,94,101,106,108,112,114,116,120,122,126,133,138,144,149,159
+  s_56bb617a38c112::t_d98fea895d84ca 143
+  s_56bb617a38c112::t_e975d300018943 158
+  s_56bb617a38c112::t_f5b26087826bc7 1-18,20,22,24,26,33-34,48-53,55-56,59,61-64,66,92-93,95-100,102-105,107,109-111,113,115,117-119,121,123-125,127-132,134-137,139-142,145-148,150-157,160-216
+  s_56bb617a38c112::t_9809157d32f1da 69,71-75
+  s_56bb617a38c112::t_5f74a807fca9fd 19,21,23,28,42-47
+packages/redact/src/dom/dom.ts
+  s_56bb617a38c112::t_c1126b0a308041 150-164
+  s_56bb617a38c112::t_4513d431b700b6 5
+  s_56bb617a38c112::t_276e4a6654a8ec 108,168,171-173
+packages/redact/src/dom/features/hydration/full.ts
+  s_56bb617a38c112::t_4cfef68f0ec1d3 290-292
+scripts/actions-browser.config.mjs
+  s_56bb617a38c112::t_f05af2454e3529 9
+tests/issue115-controlled-restore.browser.tsx
+  s_56bb617a38c112::t_2325f78a701837 1-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "9dfe8e2650101f813db4794c8804acde14dcad92",
+  "prompts": {},
+  "sessions": {
+    "s_56bb617a38c112": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "764c9e08-2dbf-4d22-a1f2-e189495533ee",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Bilal Vural <11067812+bilalvur@users.noreply.github.com>"
+    }
+  }
+}
