@@ -1,0 +1,32 @@
+packages/redact/src/dom/form-controls.ts
+  s_56bb617a38c112::t_a05a235685f81b 94
+  s_56bb617a38c112::t_6ac43222e1ed36 70-89
+packages/redact/src/dom/dom.ts
+  s_56bb617a38c112::t_d4c3c6554d308b 5,151
+packages/redact/src/dom/features/portal/full.ts
+  s_56bb617a38c112::t_145e6eb1ade35a 3,6,10
+packages/redact/src/dom/root-internal.ts
+  s_56bb617a38c112::t_b00b5676a848d7 1,23
+scripts/size-check.mjs
+  s_56bb617a38c112::t_934d5479628bef 70-81
+tests/issue115-controlled-restore.browser.tsx
+  s_56bb617a38c112::t_72ba3aadc39ee4 3,50-85
+tests/issue115-controlled-restore.test.tsx
+  s_56bb617a38c112::t_fe4574ae5a18eb 4,217-289
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "9fa185597dd82e99b628a9eff2ce092be8591757",
+  "prompts": {},
+  "sessions": {
+    "s_56bb617a38c112": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "764c9e08-2dbf-4d22-a1f2-e189495533ee",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Bilal Vural <11067812+bilalvur@users.noreply.github.com>"
+    }
+  }
+}
