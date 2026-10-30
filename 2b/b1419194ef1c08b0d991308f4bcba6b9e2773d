@@ -1,0 +1,32 @@
+.changeset/detached-checkbox-change.md
+  s_56bb617a38c112::t_5dad486c4b01f1 1-5
+tests/detached-checkbox-change.browser.tsx
+  s_56bb617a38c112::t_165c0ae4931fed 1-86
+packages/redact/src/dom/dom.ts
+  s_56bb617a38c112::t_2977f68ba767bc 117-123,140-148,165-167
+  s_56bb617a38c112::t_be18cb8ef13ab0 175
+packages/redact/src/dom/form-controls.ts
+  s_56bb617a38c112::t_ca57fdf20ffbdd 90-91
+scripts/actions-browser.config.mjs
+  s_56bb617a38c112::t_9d9a3fb4f17ba9 9
+scripts/size-check.mjs
+  s_56bb617a38c112::t_d6730bacbc5388 82-97,102
+tests/detached-checkbox-change.test.tsx
+  s_56bb617a38c112::t_470e3822ff290c 1-175
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "2bb1419194ef1c08b0d991308f4bcba6b9e2773d",
+  "prompts": {},
+  "sessions": {
+    "s_56bb617a38c112": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "764c9e08-2dbf-4d22-a1f2-e189495533ee",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Bilal Vural <11067812+bilalvur@users.noreply.github.com>"
+    }
+  }
+}
